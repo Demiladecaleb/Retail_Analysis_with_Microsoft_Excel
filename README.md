@@ -9,7 +9,7 @@ Sure! Based on the image you provided, I can draft a professional and detailed m
 
 ## Overview
 
-[View the file on Google Drive](https://drive.google.com/file/d/1HG1aXxQ3VTezJ-MOJSoufIHRVmwxPwWS/view?usp=sharing)
+![Dashboard Image](https://drive.google.com/uc?export=view&id=1HG1aXxQ3VTezJ-MOJSoufIHRVmwxPwWS)
 
 This repository contains a comprehensive **Brand Sales Performance Dashboard**, designed to visualize and analyze key sales metrics. The dashboard offers a detailed view of sales and profitability, broken down by various dimensions such as product, segment, and geography.
 
